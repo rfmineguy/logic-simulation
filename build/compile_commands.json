@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/logic_sim -I/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src  -std=c++17 -pthread -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++17 -o CMakeFiles/logic_sim.dir/src/main.cpp.o -c /Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src/main.cpp",
+  "file": "/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src/main.cpp"
+},
+{
+  "directory": "/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/logic_sim -I/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src  -std=c++17 -pthread -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++17 -o CMakeFiles/logic_sim.dir/src/simulator.cpp.o -c /Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src/simulator.cpp",
+  "file": "/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/src/simulator.cpp"
+}
+]

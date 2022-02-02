@@ -1,0 +1,3 @@
+/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/build/CMakeFiles/logic_sim.dir
+/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/build/CMakeFiles/edit_cache.dir
+/Users/rileyfischer/Documents/dev/personal/neovim_projects/logic-simulation/build/CMakeFiles/rebuild_cache.dir
